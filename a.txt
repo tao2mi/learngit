@@ -1,4 +1,4 @@
-add a.txt
+add a.txt f1
 f1 u 1
 f1 u 2
 f2 u 1
